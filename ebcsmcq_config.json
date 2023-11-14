@@ -1,8 +1,8 @@
 {
-    'maintenance_description': null,
-    'maintenance_mode': false,
-    'app_url_android': null,
-    'app_url_ios': null,
-    'app_minimum_version_android': 1,
-    'app_minimum_version_ios': null
+    "maintenance_description": null,
+    "maintenance_mode": false,
+    "app_url_android": null,
+    "app_url_ios": null,
+    "app_minimum_version_android": 1,
+    "app_minimum_version_ios": null
 }
