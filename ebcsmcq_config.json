@@ -1,5 +1,5 @@
 {
-    "maintenance_description": 'Test mode',
+    "maintenance_description": null,
     "maintenance_mode": true,
     "app_url_android": null,
     "app_url_ios": null,
