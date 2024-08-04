@@ -1,6 +1,6 @@
 {
     "maintenance_description": "We are conducting scheduled maintenance to enhance system stability, security, and performance. We apologize for any inconvenience.",
-    "maintenance_mode": true,
+    "maintenance_mode": false,
     "app_url_android": null,
     "app_url_ios": null,
     "app_minimum_version_android": 1,
