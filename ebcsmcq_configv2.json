@@ -1,6 +1,7 @@
 {
     "maintenance_description": "We are conducting scheduled maintenance to enhance system stability, security, and performance. We apologize for any inconvenience.",
     "maintenance_mode": false,
+    "study_question_count":20,
     "update":{
       "url":"https://play.google.com/store/apps/details?id=com.engineersbcs.engineersmcq",
       "mini_supported_version":23
