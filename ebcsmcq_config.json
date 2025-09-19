@@ -3,6 +3,6 @@
     "maintenance_mode": false,
     "app_url_android": "https://play.google.com/store/apps/details?id=com.engineersbcs.engineersmcq",
     "app_url_ios": null,
-    "app_minimum_version_android": 23,
+    "app_minimum_version_android": 24,
     "app_minimum_version_ios": null
 }
